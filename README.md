@@ -50,10 +50,9 @@ Web caching is a proven method to improve performance and scalability. However, 
 
 ## **References**
 
-* https://www.cs.tufts.edu/comp/117/slides/performance.pdf
-* https://www.catchpoint.com/blog/web-caching
-* https://managewp.com/blog/types-of-web-cache
-* https://dzone.com/refcardz/java-caching#section-6
-* https://www.fortinet.com/resources/cyberglossary/what-is-caching
-* https://www.cloudflare.com/en-in/learning/cdn/what-is-caching/
-* https://bootcamp.uxdesign.cc/caching-techniques-one-should-know-603e09d2b298
+* [Tufts University CS Department Presentation](https://www.cs.tufts.edu/comp/117/slides/performance.pdf)
+* [Catchpoint blog on Web Caching](https://www.catchpoint.com/blog/web-caching)
+* [Managewp.com blog on Types of Web Cache](https://managewp.com/blog/types-of-web-cache)
+* [Fortinet.com](https://www.fortinet.com/resources/cyberglossary/what-is-caching)
+* [Cloudflare's article on Caching](https://www.cloudflare.com/en-in/learning/cdn/what-is-caching/)
+* [Utkarsh Manipal's blog post on Caching Techniques](https://bootcamp.uxdesign.cc/caching-techniques-one-should-know-603e09d2b298)
